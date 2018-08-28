@@ -1,1 +1,1 @@
-<?php header("Location: https://www.riverside.oh.us/"); die(); ?>
+<?php header("Location: https://www.homeplans.com/"); die(); ?>
